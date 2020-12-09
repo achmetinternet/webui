@@ -5868,7 +5868,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the state or province of the organization."
-msgstr "Geben Sie den Staat oder die Provinz der Organisation ein."
+msgstr "Geben Sie das Bundesland oder den Kanton der Organisation ein."
 
 msgid "Enter the subject for status emails."
 msgstr "Geben Sie den Betreff für Status-E-Mails ein."
@@ -9775,7 +9775,7 @@ msgstr ""
 "Hardwarebedingungen von TrueNAS Aufmerksamkeit benötigen."
 
 msgid "Proceed"
-msgstr "Vorgehen"
+msgstr "Fortfahren"
 
 msgid "Proceed with Update"
 msgstr "Fahren Sie mit Update fort"
@@ -13016,10 +13016,10 @@ msgid "Starting job..."
 msgstr "Starte Auftrag..."
 
 msgid "State"
-msgstr "Zustand"
+msgstr "Bundesland/Region/Kanton"
 
 msgid "State: "
-msgstr ""
+msgstr "Zustand: "
 
 msgid ""
 "Static IP addresses which SMB listens on for connections.  Leaving all "
